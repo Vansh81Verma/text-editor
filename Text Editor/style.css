@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://example.com/MaterialIcons-Regular.eot); /* For IE6-8 */
+    src: local('Material Icons'),
+      local('MaterialIcons-Regular'),
+      url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'),
+      url(https://example.com/MaterialIcons-Regular.woff) format('woff'),
+      url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
+  }
+  .material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'liga';
+  }
+  header {
+      text-align: center;
+      color:rgb(96, 213, 131);
+  }
+  .buttons {
+      padding-top: 30px;
+      margin: auto;
+      display:flex;
+  text-align: center;
+  width:100%;
+  opacity: 70%;
+  background-color:white;
+  }
+  #button1 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button2 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button3 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button4 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button5 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button6 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button7 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button8 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button9 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  #button10 {
+      background-color: white;
+      width:130px;
+      height:60px;
+      margin-right: 30px;
+      border-radius: 0;
+      border-color: blueviolet;
+  
+  }
+  button:hover {
+              background-color: #fec8d8 !important;
+          }
+            
+  textarea {
+              
+              padding: 3%;
+              border-color: #957dad;
+              border-width: thick;
+          }
+            
+          .flex-box {
+              display: flex;
+              justify-content: center;
+          }
